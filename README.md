@@ -4,6 +4,8 @@
 
 This Python script automates betting on the Bloxflip platform. It fetches your current balance and places bets with a specified amount at regular intervals. It supports various response encodings and provides error handling for different API responses.
 
+## ONLY WORKS WITH https://bloxflip.com/slots/FourLuckyDiamonds RIGHT NOW ADD A STAR AND REQUEST MORE GAMES AND ILL DO MY BEST TO MAKE IT HAPPEN
+
 ## Features
 
 - Fetches current balance from the Bloxflip API.
