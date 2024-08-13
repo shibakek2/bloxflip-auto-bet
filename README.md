@@ -29,8 +29,8 @@ API Tokens
 Before running the script, you need to configure your API tokens. Open the script file and set your API tokens as follows:
 
 
-token = "YOUR_API_TOKEN"     # Replace with your Bloxflip API token
-xtoken = "YOUR_CSRF_TOKEN"   # Replace with your CSRF token
+```token = "YOUR_API_TOKEN"     # Replace with your Bloxflip API token```
+```xtoken = "YOUR_CSRF_TOKEN"   # Replace with your CSRF token```
 
 ## Script Parameters
 - `bet_amount`: This is the amount to bet each time the script places a bet. You will be prompted to input this amount when you start the script.
