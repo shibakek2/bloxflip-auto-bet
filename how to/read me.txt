@@ -1,0 +1,3 @@
+so get the two tokens from the website then put them in the python file. then all you do is run it and put in how much you want to bet.
+
+Simple and free lol
