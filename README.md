@@ -29,10 +29,10 @@ API Tokens
 Before running the script, you need to configure your API tokens. Open the script file and set your API tokens as follows:
 
 
-```bash
+```python
 token = "YOUR_API_TOKEN" # Replace with your Bloxflip API token
 ```
-```bash
+```python
 xtoken = "YOUR_CSRF_TOKEN" # Replace with your CSRF token
 ```
 
